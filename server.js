@@ -6,7 +6,7 @@ let db = null
 app.use(express.static('public'))
 
 const mongoclient= mongodb.mongoclient;
-let dbstring = 'mongodb+srv://root:Tomandjerry03@cluster0.hb7rq.mongodb.net/myapp?retryWrites=true&w=majority'
+let dbstring = 'mongodb+srv://root:Tomyyyy-uknow03@cluster0.hb7rq.mongodb.net/myapp?retryWrites=true&w=majority'
 let dbName = 'myapp'
 
 let port = process.env.PORT
